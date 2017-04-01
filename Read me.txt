@@ -1,0 +1,24 @@
+Install wamp
+Place the folder labyrinth inside www
+Create a database and name it Labyrinth
+Import the sql file and update
+Open browser and access "http://localhost/labyrinth/"
+
+
+Update the database details in the file laravel_rep\app\config\database.php
+To perform any changes to the levels do visit laravel_rep\app\controllers\Game.php
+In case the javascripts and styles are not working, place the files folder in the proper directory of the public folder
+If pages are not fetching, make sure htaccess file is placed and modify the paths in the index.php file to point to laravel_rep
+
+
+
+Pre requisites
+1. phpmyadmin
+	Username : root
+	Password : blank (no password)
+
+2. Labyrinth website
+	Username : laraadmin
+	Password : laraadmin
+
+If any issues contact Sadanand Akshay Pai (9886566142)
