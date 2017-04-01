@@ -78,7 +78,7 @@ return array(
 	|
 	*/
 
-	'key' => 'technidarshanlabyrinth',
+	'key' => '1234567890123456',
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 
